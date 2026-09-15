@@ -11,6 +11,7 @@ outputs/*
 !outputs/model_bytetrack_clip_01.txt
 !outputs/model_reid_clip_01.txt
 
+
 # Artifact tạm và model weights.
 outputs/vis_*/
 outputs/tmp_*.txt
